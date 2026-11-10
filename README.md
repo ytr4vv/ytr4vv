@@ -1,16 +1,24 @@
-## Hi there 👋
+---
 
-<!--
-**ytr4vv/ytr4vv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```markdown
+### ytr4vv
 
-Here are some ideas to get you started:
+pushing spaghetti to production since forever 🍝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📡 posting commits that never compile: [dev-null.sh/@ytr4vv](https://dev-null.sh/@ytr4vv)
+- 📈 live activity graph:
+
+![activity](https://dev-null.sh/@ytr4vv/graph.svg)
+
+<!-- current status: refactoring spaghetti into lasagna. same calories. -->
+```
+
+---
+
+**Био для GitHub** (Settings → Profile → Bio):
+```
+refactoring spaghetti into lasagna | posting at dev-null.sh/@ytr4vv
+```
+
+**Name**: `ytr4vv` → можно оставить, или `ytr4vv 🍝`
+**Location**: `localhost`
